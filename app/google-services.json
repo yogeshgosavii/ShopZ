@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689917174815",
+    "project_id": "shopz-database",
+    "storage_bucket": "shopz-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689917174815:android:17d9cdeed9c6397314e12a",
+        "android_client_info": {
+          "package_name": "com.offical.shopz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689917174815-64vd388mg4nstp6a6pitp2lmajup4fco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.offical.shopz",
+            "certificate_hash": "11ab147ef8760550f179a643229fbe3ca68efcb8"
+          }
+        },
+        {
+          "client_id": "689917174815-o6bi5hmmjr1jh4helj7kvqhfqqrrisn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK0db9OfrdEW3x-Xa5RbJiKlLnfGIQZ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689917174815-o6bi5hmmjr1jh4helj7kvqhfqqrrisn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
