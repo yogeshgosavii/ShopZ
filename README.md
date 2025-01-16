@@ -1,6 +1,3 @@
-Certainly! Here's a sample README file tailored for your **ShopZ** Android application that utilizes Firebase:
-
-```markdown
 # ShopZ - E-Commerce Android App
 
 **ShopZ** is a fully functional **e-commerce Android application** designed to provide users with a seamless shopping experience. Built using **Android Studio** and integrated with **Firebase**, ShopZ offers features such as user authentication, product browsing, cart management, and order processing.
@@ -22,15 +19,6 @@ Certainly! Here's a sample README file tailored for your **ShopZ** Android appli
   - Firebase Storage
   - Firebase Cloud Messaging
 
-## Screenshots
-
-Here are some screenshots of the application:
-
-![ShopZ Homepage](https://via.placeholder.com/800x400?text=ShopZ+Homepage)
-*Image of the ShopZ homepage showcasing featured products.*
-
-![ShopZ Product Details](https://via.placeholder.com/800x400?text=ShopZ+Product+Details)
-*Image of the product details page with descriptions and images.*
 
 ## Installation
 
@@ -40,7 +28,6 @@ To run ShopZ locally, follow these steps:
 
    ```bash
    git clone https://github.com/yogeshgosavii/ShopZ.git
-   ```
 
 2. **Open in Android Studio**:
    - Launch Android Studio.
@@ -92,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [yogeshgosavii@gmail.com](mailto:yogeshgosavii@gmail.com).
+For any inquiries, please contact [yogeshgosavif8@gmail.com](mailto:yogeshgosavii@gmail.com).
 ```
 
 ### Key Sections:
@@ -100,7 +87,6 @@ For any inquiries, please contact [yogeshgosavii@gmail.com](mailto:yogeshgosavii
 1. **Introduction**: Brief overview of the application and its purpose.
 2. **Features**: List of key functionalities offered by the app.
 3. **Technologies Used**: Technologies and tools integrated into the project.
-4. **Screenshots**: Visual representation of the app's interface.
 5. **Installation**: Step-by-step guide to set up the project locally.
 6. **Usage**: Instructions on how to use the application.
 7. **Contributing**: Guidelines for contributing to the project.
